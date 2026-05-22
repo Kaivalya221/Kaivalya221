@@ -1,66 +1,92 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kaivalya%20Basu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Undergrad%20%7C%20AI%20%26%20Full-Stack%20Builder%20%7C%20Intern%20%40%20Edubot&descAlignY=55&descSize=16"/>
+# 👋 Hey, I'm Kaivalya Basu
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+there!+I'm+Kaivalya+%F0%9F%91%8B;CS+Undergrad+%40+SRM+University%2C+AP;Building+AI+%26+Full-Stack+Projects;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+**CS Undergrad • AI & Full-Stack Builder • Software Engineering Intern @ Edubot**
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kaivalya221&style=for-the-badge&color=6E40C9" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Kaivalya221?style=for-the-badge&color=6E40C9&labelColor=1a1a2e" alt="Followers"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Kaivalya221&style=flat-square&color=6E40C9)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaivalya-basu)
+[![GitHub](https://img.shields.io/badge/GITHUB%20(Kaivalya221)-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaivalya221)
+[![Gmail](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaivalya.offi@gmail.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
+
+I'm a **CS undergrad at SRM University, AP** and a passionate **AI & Full-Stack developer** with hands-on experience building production-grade NLP pipelines and web applications. I specialize in **Python, Java, React, and Supabase**, architecting solutions that integrate AI into real-world workflows.
+
+> *"First, solve the problem. Then, write the code."*
+
+---
+
+## 🏆 Key Achievements
+
+🤖 **Built Smart Email Management System** — End-to-end Gmail OAuth2 + NLP pipeline featuring email classification, keyword extraction, and summarization using Python & React
+
+🌐 **Full-Stack NLP App** — Integrated Supabase Edge Functions, Gmail API & an AI model pipeline; debugged OAuth token flow, DB constraints, and environment configs end-to-end
+
+⚡ **AI Algorithm Implementations** — Implemented BFS, Dijkstra's, A\*, propositional logic proofs, FOL forward chaining & classic search problems (Water Jug, 8-Puzzle) from scratch
+
+💼 **Industry Intern @ Edubot** — Selected for Software Engineering internship in the EdTech domain; contributed to platform feature development (Jun–Aug 2025)
+
+📚 **CSE 306 Project Lead** — Led team project on Smart Email Management System, delivering formal NWA report, 12-step workflow diagram & working full-stack implementation
+
+---
+
+## 💼 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Role & Focus
 
 ```python
 kaivalya = {
-    "name"       : "Kaivalya Basu",
-    "role"       : "CS Undergrad + Software Engineering Intern",
-    "company"    : "Edubot (Jun–Aug 2025)",
-    "university" : "SRM University, AP · B.Tech CSE (2023–2027)",
-    "location"   : "Andhra Pradesh, India 🇮🇳",
-    "email"      : "kaivalya.offi@gmail.com",
-    "focus"      : ["AI/ML", "Full-Stack Dev", "System Design"],
-    "currently"  : "Building smart NLP-powered web apps",
-    "fun_fact"   : "I debug best at 2 AM with lo-fi music 🎧",
+  "role"     : "CS Undergrad + SWE Intern",
+  "uni"      : "SRM University, AP",
+  "batch"    : "2023 – 2027",
+  "location" : "Andhra Pradesh, India 🇮🇳",
+  "focus"    : [
+    "AI / ML",
+    "Full-Stack Dev",
+    "System Design",
+  ],
 }
 ```
 
----
+</td>
+<td width="50%">
 
-## 🌐 Connect With Me
+### 🛠 Project Metrics
 
-<div align="center">
+```json
+{
+  "current_project" : "Smart Email Manager",
+  "stack"           : "React + Supabase + Python",
+  "pipeline_steps"  : "12-step NLP workflow",
+  "integrations"    : "Gmail OAuth2 + AI model",
+  "ai_algorithms"   : "BFS, A*, Dijkstra, FOL",
+  "status"          : "Active builder 🚀"
+}
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaivalya-basu)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaivalya221)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaivalya.offi@gmail.com)
-
-</div>
-
----
-
-## 🚀 What I'm Working On
-
-<div align="center">
-
-| 🔭 Project | 📌 Description | 🛠 Stack |
-|-----------|----------------|---------|
-| Smart Email Manager | NLP-powered Gmail classifier & summarizer | Python · React · Supabase · OAuth2 |
-| AI Coursework Projects | BFS, Dijkstra, A*, FOL, 8-Puzzle & more | Python · Logic · Search Algorithms |
-| Edubot Internship | EdTech platform feature development | Java · JavaScript |
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💻 Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -85,26 +111,12 @@ kaivalya = {
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Tools & Platforms**
+**Tools**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-| 🥇 Achievement | 📋 Details |
-|---------------|-----------|
-| 🤖 AI Systems Builder | Implemented BFS, Dijkstra, A*, FOL & propositional logic solvers from scratch |
-| 📧 NLP Project Lead | Built a full Gmail OAuth2 + NLP pipeline (classify, summarize, extract keywords) |
-| 🏫 Active CS Student | Coursework spanning Software Engineering, AI, Data Structures & Cloud |
-| 💼 Industry Intern | Selected for Software Engineering internship at Edubot (EdTech domain) |
-| 🌐 Full-Stack Builder | React + Supabase + Edge Functions + OAuth2 end-to-end deployments |
 
 </div>
 
@@ -114,29 +126,13 @@ kaivalya = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kaivalya221&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kaivalya221&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaivalya221&theme=tokyonight&hide_border=false&layout=compact" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaivalya221&theme=tokyonight&hide_border=false&layout=compact" height="165"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Kaivalya221&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🐍 My Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaivalya221/Kaivalya221/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaivalya221/Kaivalya221/output/github-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Kaivalya221/Kaivalya221/output/github-snake.svg"/>
-</picture>
+<img src="https://streak-stats.demolab.com/?user=Kaivalya221&theme=tokyonight&hide_border=false"/>
 
 </div>
 
@@ -146,8 +142,8 @@ kaivalya = {
 
 <div align="center">
 
-| 🏛 Institution | 📚 Degree | 📅 Year |
-|--------------|----------|--------|
+| 🏛 Institution | 📚 Qualification | 📅 Year |
+|:---|:---|:---|
 | SRM University, AP | B.Tech — Computer Science & Engineering | 2023 – 2027 |
 | Sri Chaitanya College | Higher Secondary (12th) | Completed |
 
@@ -161,17 +157,7 @@ kaivalya = {
 
 [![Collaborations](https://img.shields.io/badge/Open%20To-Collaborations-6E40C9?style=for-the-badge&logo=handshake&logoColor=white)](mailto:kaivalya.offi@gmail.com)
 [![Internships](https://img.shields.io/badge/Open%20To-Internships-0077B5?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:kaivalya.offi@gmail.com)
-[![Mentorship](https://img.shields.io/badge/Open%20To-Mentorship-FF6B6B?style=for-the-badge&logo=teachable&logoColor=white)](https://linkedin.com/in/kaivalya-basu)
-
-</div>
-
----
-
-## 💬 Quote I Live By
-
-<div align="center">
-
-> *"First, solve the problem. Then, write the code."*
+[![Open%20Source](https://img.shields.io/badge/Open%20To-Open%20Source-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaivalya221)
 
 </div>
 
@@ -179,8 +165,6 @@ kaivalya = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-**Thanks for visiting! Drop a ⭐ if you find my work interesting.**
+**Thanks for visiting — drop a ⭐ if you find my work interesting!**
 
 </div>
